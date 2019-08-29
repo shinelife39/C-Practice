@@ -1,0 +1,2 @@
+        23           1.2345
+Color red, Number 123456, Float  3.14
