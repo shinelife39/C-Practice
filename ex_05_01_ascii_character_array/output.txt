@@ -1,0 +1,11 @@
+one (length: 3)
+two (length: 3)
+three (length: 5)
+four (length: 4)
+five (length: 4)
+six (length: 3)
+seven (length: 5)
+eight (length: 5)
+nine (length: 4)
+ten (length: 3)
+
